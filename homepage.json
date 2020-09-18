@@ -1,0 +1,42 @@
+{
+	"SP001": "SECURITY & PATROL SERVICESz",
+	"SP002": "At Pivotal Protection, we offer a wide range of security guard and other active monitoring services to businesses in and around the Houston area, just like yours.z",
+	"PR001": [
+		"xTAC PRO PROVIDES",
+		"UNARMED GUARDSz",
+		"ARMED GUARDS z",
+		"PATROL SEVICESz",
+		"SECURITYz"
+	],
+	"PR002": "We provides security services for any occasion and all business types. We have experienced consulting representatives for any security-related issue or project you may have.z",
+	"PR003": [
+		"We are staffed with licensed, well selected and highly trained unarmed security guards dedicated to their communities.z",
+		"Becoming an armed security guard in California is no small matter. We assign only the most professional guardsz",
+		"We provide commercial and residential properties with well trained personnel that understand all procedures.z",
+		"Our patrol division is made of a large fleet of patrol vehicles and dedicated driver security guards to meet your needs.z"
+	],
+	"section-reasons  wow fadeInUp": {
+		"Reasons-Title": "WHY CHOOSE US?  z",
+		"bullet": [
+			{
+				"bullet-point": [
+					"Sometimes you can’t be everywhere at once. When you have something valuable that you want kept under a close eye, and a close guard, you want someone you can truszzt. ",
+					" "
+				]
+			}
+		]
+	},
+	"cont001": "Get a Proposal for Guard Servicesz",
+	"cont002": "quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequunturzzz",
+	"cont002b": "When Security Matters Most, Contact Uszzz",
+	"section-footer": {
+		"FTR001": "TAC PRO PROTECTIONz",
+		"FTR003": [
+			"4 Embarcadero Center,z",
+			"Email: info@tacproprotection.comz"
+		],
+		"FTR002": "Telephone : 279-555-555z",
+		"FTR00fax": "FAX : 279-555-555z",
+		"FTR006": "\n       \n        Copyright © 2020,Tac Pro Protection .All rights reserved"
+	}
+}
