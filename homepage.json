@@ -1,14 +1,14 @@
 {
-	"SP001": "SECURITY & PATROL SERVICESz",
-	"SP002": "At Pivotal Protection, we offer a wide range of security guard and other active monitoring services to businesses in and around the Houston area, just like yours.z",
+	"SP001": "SECURITY & PATROL SERVICES",
+	"SP002": "At Pivotal Protection, we offer a wide range of security guard and other active monitoring services to businesses in and around the Houston area, just like yours.",
 	"PR001": [
-		"xTAC PRO PROVIDES",
-		"UNARMED GUARDSz",
-		"ARMED GUARDS z",
-		"PATROL SEVICESz",
-		"SECURITYz"
+		"TAC PRO PROVIDES",
+		"UNARMED GUARDS",
+		"ARMED GUARDS",
+		"PATROL SEVICES",
+		"SECURITY"
 	],
-	"PR002": "We provides security services for any occasion and all business types. We have experienced consulting representatives for any security-related issue or project you may have.z",
+	"PR002": "We provides security services for any occasion and all business types. We have experienced consulting representatives for any security-related issue or project you may have.",
 	"PR003": [
 		"We are staffed with licensed, well selected and highly trained unarmed security guards dedicated to their communities.z",
 		"Becoming an armed security guard in California is no small matter. We assign only the most professional guardsz",
@@ -16,39 +16,39 @@
 		"Our patrol division is made of a large fleet of patrol vehicles and dedicated driver security guards to meet your needs.z"
 	],
 	"section-reasons  wow fadeInUp": {
-		"Reasons-Title": "WHY CHOOSE US?  z",
+		"Reasons-Title": "WHY CHOOSE US? ",
 		"bullet": [
 			{
 				"bullet-point": [
-					"Sometimes you can’t be everywhere at once. When you have something valuable that you want kept under a close eye, and a close guard, you want someone you can truszzt. ",
+					"Sometimes you can’t be everywhere at once. When you have something valuable that you want kept under a close eye, and a close guard, you want someone you can trust. ",
 					" "
 				]
 			}
 		]
 	},
-	"cont001": "Get a Proposal for Guard Servicesz",
-	"cont002": "quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequunturzzz",
-	"cont002b": "When Security Matters Most, Contact Uszzz",
+	"cont001": "Get a Proposal for Guard Services",
+	"cont002": "quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
+	"cont002b": "When Security Matters Most, Contact Us",
 	"section-footer": {
-		"FTR001": "TAC PRO PROTECTIONz",
+		"FTR001": "TAC PRO PROTECTION",
 		"FTR003": [
-			"4 Embarcadero Center,z",
-			"Email: info@tacproprotection.comz"
+			"4 Embarcadero Center,",
+			"Email: info@tacproprotection.com"
 		],
 		"FTR002": "Telephone : 279-555-555z",
 		"FTR00fax": "FAX : 279-555-555z",
 		"FTR006": "\n       \n        Copyright © 2020,Tac Pro Protection .All rights reserved"
 	},
 	"AB001": "Private Security Guard Company in Houston, TXz",
-	"AB002": "Tac Pro Protection is proud to provide protection.z ",
-	"AB004": "Tac Pro is the premier security guard services provider in the Houston, TX area. We specialize in providing both unarmed and armed security, as well as managing security guard services on a national level. Our guards are fully licensed/insured, and we are able to provide and/or secure the most cost effective prices for your budget in the security industryz",
-	"AB005": "Full Service Security Companyz",
-	"AB006": "Tac Pro is a veteran owned security company. Our mission is to provide our clients with the most reliable, competent and professional security services around. Our strict guard selection process ensures that we provide you with the highest-quality applicants.z",
-	"PR005b": "We provide expert service and consultation with every client in their area of security needs. Tac Pro completes security needs on every level:z",
-	"PR0020": "PROTECT YOUR COMPANYz",
-	"PR0021": "We understand the level of concern regarding the protection of your company’s employees and assets. We offer experience and equipment to deal with and elimate all your security needs  z",
-	"PR0022": "Retailz",
-	"PR0023": "Schoolsz",
+	"AB002": "Tac Pro Protection is proud to provide protection.",
+	"AB004": "Tac Pro is the premier security guard services provider in the Houston, TX area. We specialize in providing both unarmed and armed security, as well as managing security guard services on a national level. Our guards are fully licensed/insured, and we are able to provide and/or secure the most cost effective prices for your budget in the security industry",
+	"AB005": "Full Service Security Company",
+	"AB006": "Tac Pro is a veteran owned security company. Our mission is to provide our clients with the most reliable, competent and professional security services around. Our strict guard selection process ensures that we provide you with the highest-quality applicants.",
+	"PR005b": "We provide expert service and consultation with every client in their area of security needs. Tac Pro completes security needs on every level:",
+	"PR0020": "PROTECT YOUR COMPANY",
+	"PR0021": "We understand the level of concern regarding the protection of your company’s employees and assets. We offer experience and equipment to deal with and elimate all your security needs  ",
+	"PR0022": "Retail",
+	"PR0023": "Schools",
 	"PR0024": "Concierge/Front Desk Services",
 	"PR0025": "Construction Site Security",
 	"PR0026": "Event Security",
@@ -60,5 +60,6 @@
 	"PR0032": "Workplace Security",
 	"PR0033": "Mobile Patrol",
 	"PR0034": "Private Party Security",
-	"PR0035": "Tac Pro can give you the peace of mind you’re seeking. We’ll shoulder the burden of security so you can rest easy. Our goal is to keep you and your property safe from criminals whenever and wherever we’re needed.z"
+	"PR0035": "Tac Pro can give you the peace of mind you’re seeking. We’ll shoulder the burden of security so you can rest easy. Our goal is to keep you and your property safe from criminals whenever and wherever we’re needed.",
+	"PR0034b": "Residential & Commercial"
 }
